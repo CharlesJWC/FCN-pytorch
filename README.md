@@ -8,7 +8,7 @@ matplotlib >= 3.0.0
 
 ## Training model 
 ```
-python3 main.py
+python3 main.py --model=FCN_8s --dataset=VOC2012
 ```
 
 ## Show results
