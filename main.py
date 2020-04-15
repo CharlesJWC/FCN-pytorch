@@ -19,7 +19,7 @@ from dataloader import VOC2012_Dataloader, VOC2011_Dataloader
 from model.FCN_previous import FCN_AlexNet, FCN_VGG16, FCN_GoogLeNet
 from model.FCN_proposed import FCN_32s_fixed, FCN_32s, FCN_16s, FCN_8s
 from model.FCN_proposed import FCN_4s, FCN_2s, FCN_1s
-from model.DeconvNet import DeconvNet
+# from model.DeconvNet import DeconvNet
 from train import train
 from val import val
 
